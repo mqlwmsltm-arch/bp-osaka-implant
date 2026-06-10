@@ -2,39 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-osaka-implant/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  
   <url>
-    <loc>https://mqlwmsltm-arch.github.io/bp-osaka-implant/posts/normal-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://mqlwmsltm-arch.github.io/bp-osaka-implant/posts/guide-003.html</loc>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mqlwmsltm-arch.github.io/bp-osaka-implant/posts/normal-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://mqlwmsltm-arch.github.io/bp-osaka-implant/posts/interview-001-lfwor4.html</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mqlwmsltm-arch.github.io/bp-osaka-implant/posts/normal-3.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://mqlwmsltm-arch.github.io/bp-osaka-implant/posts/review-001.html</loc>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mqlwmsltm-arch.github.io/bp-osaka-implant/posts/juice-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://mqlwmsltm-arch.github.io/bp-osaka-implant/posts/review-002.html</loc>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mqlwmsltm-arch.github.io/bp-osaka-implant/posts/juice-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://mqlwmsltm-arch.github.io/bp-osaka-implant/posts/t3link-002-lfwor4.html</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mqlwmsltm-arch.github.io/bp-osaka-implant/feed.xml</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
